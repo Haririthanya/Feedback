@@ -16,7 +16,7 @@ After the file is selected, the requried criteria is selected, here I have selec
 After this save button is clicked and a name for the output file is given. Then generate button is clicked to generate the pdf file.
 ![Generate](https://github.com/Haririthanya/Feedback/blob/master/Generate.png) 
 
-Now the pdf file is downloaded and we can view .
+Now the pdf file is downloaded and we can view . And I renamed it from ABCDEF.pdf to result.pdf !!!
 ![Result](https://github.com/Haririthanya/Feedback/blob/master/Result.png) 
 ![Result2](https://github.com/Haririthanya/Feedback/blob/master/Result2.png) 
 
